@@ -1,0 +1,8 @@
+﻿  Source.c
+C:\Users\Пользователь\source\repos\Project5\Project5\Source.c(10,12): warning C4477: "printf": в строке форматирования "%g" требуется аргумент типа "double", но вариативный аргумент "2" имеет тип "int"
+C:\Users\Пользователь\source\repos\Project5\Project5\Source.c(21,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "4" имеет тип "double"
+C:\Users\Пользователь\source\repos\Project5\Project5\Source.c(21,12): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Users\Пользователь\source\repos\Project5\Project5\Source.c(21,12): message : заполнители и их параметры ожидают переменное число аргументов в количестве 5, но было предоставлено 4
+C:\Users\Пользователь\source\repos\Project5\Project5\Source.c(21,12): message : отсутствующий вариативный аргумент "5" требуется для строки форматирования "%.2e"
+C:\Users\Пользователь\source\repos\Project5\Project5\Source.c(75,13): warning C4098: TaskDZ: функция типа "void", возвращающая значение
+  Project5.vcxproj -> C:\Users\Пользователь\source\repos\Project5\x64\Debug\Project5.exe
